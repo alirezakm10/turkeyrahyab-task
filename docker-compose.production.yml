@@ -6,4 +6,4 @@ services:
     build:
       dockerfile: Dockerfile.production
     ports:
-      - 4002:4002
+      - 3007:3007
